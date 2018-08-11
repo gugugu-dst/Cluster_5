@@ -1,0 +1,24 @@
+[00:07:35]: [Join Announcement] NewbridgeGate
+[00:09:11]: [Join Announcement] 519969864
+[00:09:32]: [Skin Announcement] 519969864 legs_skirt_basic_tan_cream
+[00:11:27]: [Say] (KU_0Siu9lrl) 519969864: 你有空去把猪喂疯吧
+[00:11:52]: [Say] (KU_DfIX67Cd) NewbridgeGate: 猪好像之前死光了
+[00:12:18]: [Say] (KU_0Siu9lrl) 519969864: 还是别把猪和蜘蛛种一起惹
+[00:14:01]: [Say] (KU_DfIX67Cd) NewbridgeGate: 你能打么
+[00:14:05]: [Say] (KU_0Siu9lrl) 519969864: neng
+[00:14:05]: [Say] (KU_DfIX67Cd) NewbridgeGate: 我没武器
+[00:15:17]: [Join Announcement] DrinkingCoder
+[00:15:28]: [Say] (KU_pvwb-cGJ) DrinkingCoder: Help
+[00:15:46]: [Say] (KU_0Siu9lrl) 519969864: OvO
+[00:16:10]: [Say] (KU_0Siu9lrl) 519969864: where are you
+[00:16:20]: [Say] (KU_pvwb-cGJ) DrinkingCoder: Imhere
+[00:17:51]: [Say] (KU_0Siu9lrl) 519969864: 给我造顶头盔吧
+[00:18:10]: [Say] (KU_DfIX67Cd) NewbridgeGate: 造猪皮帽比较划算
+[00:19:23]: [Say] (KU_pvwb-cGJ) DrinkingCoder: GiveMeEyeHat
+[00:21:10]: [Leave Announcement] DrinkingCoder
+[00:31:11]: [Say] (KU_DfIX67Cd) NewbridgeGate: 你有暖石么
+[00:31:17]: [Say] (KU_0Siu9lrl) 519969864: yeah
+[00:31:29]: [Say] (KU_0Siu9lrl) 519969864: many in the box
+[00:34:40]: [Leave Announcement] 519969864
+[00:38:34]: [Join Announcement] 519969864
+[00:39:45]: [Leave Announcement] 519969864

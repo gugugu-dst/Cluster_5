@@ -1,0 +1,9 @@
+[00:04:51]: [Death Announcement] NewbridgeGate was killed by Hound. He became a spooky ghost!
+[00:04:59]: [Death Announcement] DrinkingCoder was killed by Darkness. She became a spooky ghost!
+[00:11:33]: [Join Announcement] 519969864
+[00:15:57]: [Death Announcement] NewbridgeGate was killed by MacTusk. He became a spooky ghost!
+[00:20:13]: [Death Announcement] DrinkingCoder was killed by Spider. She became a spooky ghost!
+[00:59:45]: [Leave Announcement] 519969864
+[00:59:54]: [Leave Announcement] DrinkingCoder
+[01:00:15]: [Leave Announcement] NewbridgeGate
+[01:00:48]: [Leave Announcement] lo1992

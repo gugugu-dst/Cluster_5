@@ -1,0 +1,53 @@
+[00:01:24]: [Join Announcement] NewbridgeGate
+[00:07:51]: [Join Announcement] DrinkingCoder
+[00:13:39]: [Skin Announcement] DrinkingCoder body_flannel_blue_snowbird
+[00:18:21]: [Join Announcement] 519969864
+[00:19:07]: [Say] (KU_0Siu9lrl) 519969864: 贼惨
+[00:19:41]: [Say] (KU_DfIX67Cd) NewbridgeGate: 先回家做肉丸子吧
+[00:27:16]: [Death Announcement] NewbridgeGate was killed by Spider Warrior. He became a spooky ghost!
+[00:27:37]: [Resurrect Announcement] NewbridgeGate was resurrected by DrinkingCoder.
+[00:31:08]: [Say] (KU_0Siu9lrl) 519969864: boss
+[00:31:23]: [Say] (KU_0Siu9lrl) 519969864: 我只有36点血
+[00:35:04]: [Death Announcement] NewbridgeGate was killed by Starvation. He became a spooky ghost!
+[00:35:56]: [Say] (KU_DfIX67Cd) NewbridgeGate: #recurret
+[00:35:57]: [Say] (KU_0Siu9lrl) 519969864: 回档吧
+[00:36:14]: [Say] (KU_DfIX67Cd) NewbridgeGate: #resurrect
+[00:36:20]: [Say] (KU_0Siu9lrl) 519969864: 我没开
+[00:36:33]: [Say] (KU_DfIX67Cd) NewbridgeGate: 我刚卡了
+[00:36:44]: [Say] (KU_DfIX67Cd) NewbridgeGate: 吃不了东西
+[00:37:40]: [Death Announcement] 519969864 was killed by Deerclops. He became a spooky ghost!
+[00:39:53]: [Death Announcement] DrinkingCoder was killed by Deerclops. She became a spooky ghost!
+[00:41:17]: [Say] (KU_0Siu9lrl) 519969864: 谁有蜘蛛网啊
+[00:41:24]: [Say] (KU_pvwb-cGJ) DrinkingCoder: wo
+[00:41:26]: [Say] (KU_0Siu9lrl) 519969864: 给我一点
+[00:42:28]: [Say] (KU_pvwb-cGJ) DrinkingCoder: wanshang
+[00:42:30]: [Say] (KU_pvwb-cGJ) DrinkingCoder: chuqu
+[00:42:34]: [Say] (KU_pvwb-cGJ) DrinkingCoder: biedaijiali
+[00:42:42]: [Say] (KU_0Siu9lrl) 519969864: ok
+[00:44:44]: [Say] (KU_pvwb-cGJ) DrinkingCoder: comehere
+[00:44:45]: [Say] (KU_pvwb-cGJ) DrinkingCoder: ox
+[00:46:18]: [Say] (KU_0Siu9lrl) 519969864: 艹有吗
+[00:48:47]: [Say] (KU_0Siu9lrl) 519969864: good job
+[00:49:29]: [Say] (KU_pvwb-cGJ) DrinkingCoder: geiwo
+[00:49:31]: [Say] (KU_pvwb-cGJ) DrinkingCoder: emeng
+[00:49:35]: [Say] (KU_pvwb-cGJ) DrinkingCoder: ranliao
+[00:49:36]: [Say] (KU_0Siu9lrl) 519969864: none
+[00:50:47]: [Say] (KU_0Siu9lrl) 519969864: 你们要肉丸吗
+[01:03:15]: [Say] (KU_0Siu9lrl) 519969864: 蜘蛛巢造哪
+[01:03:28]: [Say] (KU_pvwb-cGJ) DrinkingCoder: wolaiba
+[01:03:33]: [Say] (KU_pvwb-cGJ) DrinkingCoder: baitianwoqu
+[01:03:48]: [Say] (KU_0Siu9lrl) 519969864: 嗯
+[01:05:09]: [Leave Announcement] NewbridgeGate
+[01:08:03]: [Join Announcement] lo1992
+[01:09:07]: [Leave Announcement] 519969864
+[01:18:48]: [Join Announcement] NewbridgeGate
+[01:20:43]: [Say] (KU_DfIX67Cd) NewbridgeGate: lo种下树？
+[01:27:26]: [Death Announcement] NewbridgeGate was killed by Hound. He became a spooky ghost!
+[01:27:34]: [Death Announcement] DrinkingCoder was killed by Darkness. She became a spooky ghost!
+[01:34:08]: [Join Announcement] 519969864
+[01:38:32]: [Death Announcement] NewbridgeGate was killed by MacTusk. He became a spooky ghost!
+[01:42:48]: [Death Announcement] DrinkingCoder was killed by Spider. She became a spooky ghost!
+[02:22:20]: [Leave Announcement] 519969864
+[02:22:29]: [Leave Announcement] DrinkingCoder
+[02:22:50]: [Leave Announcement] NewbridgeGate
+[02:23:23]: [Leave Announcement] lo1992

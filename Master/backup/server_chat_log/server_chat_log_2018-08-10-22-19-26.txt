@@ -1,0 +1,4 @@
+[00:09:27]: [Join Announcement] lo
+[00:10:00]: [Leave Announcement] lo
+[00:30:56]: [Join Announcement] lo
+[00:31:11]: [Leave Announcement] lo

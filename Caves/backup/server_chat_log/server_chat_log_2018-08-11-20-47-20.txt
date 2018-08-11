@@ -1,0 +1,18 @@
+[00:28:46]: [Join Announcement] 519969864
+[00:31:27]: [Join Announcement] DrinkingCoder
+[00:34:15]: [Say] (KU_pvwb-cGJ) DrinkingCoder: 他的电脑我不会用
+[00:35:18]: [Join Announcement] lo
+[00:36:45]: [Leave Announcement] lo
+[00:38:11]: [Join Announcement] lo
+[00:39:06]: [Leave Announcement] DrinkingCoder
+[00:49:20]: [Join Announcement] NewbridgeGate
+[01:48:06]: [Skin Announcement] 519969864 hand_beltedgloves_teal_jungle
+[01:50:03]: [Skin Announcement] NewbridgeGate legs_tweed_knickerbocker_green_hunters
+[01:52:19]: [Say] (KU_0Siu9lrl) 519969864: 鱼+大肉+水果+树枝
+[01:52:33]: [Say] (KU_0Siu9lrl) 519969864: 怪兽肉也可以
+[02:14:41]: [Say] (KU_0Siu9lrl) 519969864: 你看一下你贝雷帽的耐久
+[02:16:45]: [Say] (KU_0Siu9lrl) 519969864: 我先下了
+[02:16:52]: [Leave Announcement] 519969864
+[02:17:13]: [Say] (KU_DfIX67Cd) NewbridgeGate: 我也下了 太迟了
+[02:17:21]: [Leave Announcement] NewbridgeGate
+[02:24:42]: [Leave Announcement] lo
