@@ -1,5 +1,3 @@
-根目录下还有cluster.ini文件，请从群中获取。
-
 根目录下的cluster_token.txt请自行产生。
 
 
