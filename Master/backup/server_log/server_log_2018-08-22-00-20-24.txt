@@ -1,0 +1,1925 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 53%
+	Available Physical Memory: 3783m/8087m
+	Available Page File: 2977m/9751m
+	Available Virtual Memory: 3961m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 192k
+	Quota Page Pool Usage: 189k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_5/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 280490
+[00:00:00]: Current time: Tue Aug 21 20:55:28 2018
+
+[00:00:00]: Don't Starve Together: 280490 WIN32
+[00:00:00]: Build Date: 3422
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster Cluster_5 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (14480)
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:4.40
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_5/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (11448)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_5/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/Cluster_5/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_5/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_5/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.16299
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2401
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce 940MX
+    driverDate                20170501000000.000000-000
+    megsOfRam                 1024
+    refreshRate               59
+    videoModeDescription      1920 x 1080 x 4294967296 种颜色
+    driverVersion             22.21.13.8205
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:00]: DownloadMods(0)
+[00:00:01]: modoverrides.lua enabling workshop-347079953	
+[00:00:01]: modoverrides.lua enabling workshop-1185229307	
+[00:00:01]: modoverrides.lua enabling workshop-458940297	
+[00:00:01]: modoverrides.lua enabling workshop-666155465	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-1079538195	
+[00:00:01]: modoverrides.lua enabling workshop-458587300	
+[00:00:01]: modoverrides.lua enabling workshop-375859599	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-458587300_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-458587300 (Fast Travel) Version:1.1.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-458940297_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:01]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:01]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:01]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:01]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:01]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:01]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-666155465 (Show Me) Version:0.38	
+[00:00:01]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modmain.lua	
+[00:00:01]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-666155465 (Show Me)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-666155465 (Show Me)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-666155465 (Show Me)	Loading modmain.lua	
+[00:00:01]: ShowMe version:	0.38	
+[00:00:01]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:01]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-458587300 (Fast Travel)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-458587300 (Fast Travel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-458587300 (Fast Travel)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering mod namespace "food item"
+[00:00:03]: Registering mod namespace "showme"
+[00:00:03]: Registering mod namespace "foodvalues - itemtooltips"
+[00:00:03]: Registering mod namespace "workshop-378160973"
+[00:00:03]: Registering mod namespace "showmehint"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: loaded saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Registering prefabs	
+[00:00:05]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-666155465 (Show Me)	Registering prefabs	
+[00:00:05]: Mod: workshop-666155465 (Show Me)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[00:00:05]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[00:00:05]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[00:00:05]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[00:00:05]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-458587300 (Fast Travel)	Registering prefabs	
+[00:00:05]: Mod: workshop-458587300 (Fast Travel)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:05]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (18116)
+[00:00:06]: FilesExistAsyncThread started (16503 files)...
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:07]: [200] Account Communication Success (6)
+[00:00:07]: Received (KU_0Siu9lrl) from TokenPurpose
+[00:00:07]: Starting Dedicated Server Game	
+[00:00:07]: Network tick rate: U=15(2), D=0
+[00:00:07]: About to start a server with the following settings:
+[00:00:07]:   Dedicated: true
+[00:00:07]:   Online: true
+[00:00:07]:   Passworded: true
+[00:00:07]:   ServerPort: 10999
+[00:00:07]:   SteamAuthPort: 8766
+[00:00:07]:   SteamMasterServerPort: 27016
+[00:00:07]:   ClanID: false
+[00:00:07]:   ClanOnly: false
+[00:00:07]:   ClanAdmin: false
+[00:00:07]:   LanOnly: false
+[00:00:07]:   FriendsOnly: false
+[00:00:07]:   EnableAutosaver: true
+[00:00:07]:   EncodeUserPath: true
+[00:00:07]:   PVP: false
+[00:00:07]:   MaxPlayers: 6
+[00:00:07]:   GameMode: survival
+[00:00:07]:   OverridenDNS: 
+[00:00:07]:   PauseWhenEmpty: true
+[00:00:07]:   IdleTimeout: 1800s
+[00:00:07]:   VoteEnabled: true
+[00:00:07]:   InternetBroadcasting: true
+[00:00:07]:   Intent: cooperative
+[00:00:07]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-458940297	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-458587300	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:07]: Online Server Started on port: 10999
+[00:00:07]: Collecting garbage...
+[00:00:07]: lua_gc took 0.03 seconds
+[00:00:07]: ~ShardLuaProxy()
+[00:00:07]: ~cEventLeaderboardProxy()
+[00:00:07]: ~ItemServerLuaProxy()
+[00:00:07]: ~InventoryLuaProxy()
+[00:00:07]: ~NetworkLuaProxy()
+[00:00:07]: ~SimLuaProxy()
+[00:00:07]: FilesExistAsyncThread aborted.
+[00:00:07]: ... FilesExistAsyncThread complete
+[00:00:07]: lua_close took 0.07 seconds
+[00:00:07]: ReleaseAll
+[00:00:07]: ReleaseAll Finished
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]:   taskgrouplist:	default	Together	
+[00:00:07]:   taskgrouplist:	classic	Classic	
+[00:00:07]:   taskgrouplist:	cave_default	Underground	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:07]: running main.lua
+	
+[00:00:07]: unloading prefabs for mod MOD_workshop-458940297	
+[00:00:07]: unloading prefabs for mod MOD_workshop-347079953	
+[00:00:07]: unloading prefabs for mod MOD_workshop-666155465	
+[00:00:07]: unloading prefabs for mod MOD_workshop-375859599	
+[00:00:07]: unloading prefabs for mod MOD_workshop-1079538195	
+[00:00:07]: unloading prefabs for mod MOD_workshop-458587300	
+[00:00:07]: unloading prefabs for mod MOD_workshop-1185229307	
+[00:00:07]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:08]: modoverrides.lua enabling workshop-347079953	
+[00:00:08]: modoverrides.lua enabling workshop-1185229307	
+[00:00:08]: modoverrides.lua enabling workshop-458940297	
+[00:00:08]: modoverrides.lua enabling workshop-666155465	
+[00:00:08]: modoverrides.lua enabling workshop-378160973	
+[00:00:08]: modoverrides.lua enabling workshop-1079538195	
+[00:00:08]: modoverrides.lua enabling workshop-458587300	
+[00:00:08]: modoverrides.lua enabling workshop-375859599	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:1.5	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-458587300	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-458587300 (Fast Travel) Version:1.1.0	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-458940297	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-347079953	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-347079953's option DFV_MinimalMode with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458940297	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_Language with value EN	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_PercentReplace with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowADefence with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowDamage with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowInsulation with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowUses with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_FueledSettings with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowTemperature with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_MinimalMode with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowACondition with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowFireTime with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ClientPrediction with value default	
+[00:00:08]: Overriding mod workshop-458940297's option DFV_ShowAType with value default	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:08]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:08]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:08]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:08]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:08]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:08]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:08]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:08]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-1079538195	
+[00:00:08]: Overriding mod workshop-1079538195's option rainometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cartographydesk with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option winterometer with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option wardrobe with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_farm with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab2 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option firesuppressor with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option scarecrow with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option moondial with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option cookpot with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflyfurnace with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option succulent_potted with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option sculptingtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option saltlick with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option resurrectionstatue with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option pottedfern with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab3 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option modsupport with value false	
+[00:00:08]: Overriding mod workshop-1079538195's option beebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option dragonflychest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option townportal with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option birdcage with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option researchlab4 with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option nightlight with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option perdshrine with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option treasurechest with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option mushroom_light with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option icebox with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option endtable with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option meatrack with value true	
+[00:00:08]: Overriding mod workshop-1079538195's option lightning_rod with value true	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-458587300	
+[00:00:08]: Overriding mod workshop-458587300's option Ownership with value false	
+[00:00:08]: Overriding mod workshop-458587300's option Travel_Cost with value 32	
+[00:00:08]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:08]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:08]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:08]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:08]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:08]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:08]: Loading mod: workshop-666155465 (Show Me) Version:0.38	
+[00:00:08]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modmain.lua	
+[00:00:08]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-666155465 (Show Me)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-666155465 (Show Me)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-666155465 (Show Me)	Loading modmain.lua	
+[00:00:08]: ShowMe version:	0.38	
+[00:00:08]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:08]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:08]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-458587300 (Fast Travel)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-458587300 (Fast Travel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-458587300 (Fast Travel)	Loading modmain.lua	
+[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: Registering mod namespace "food item"
+[00:00:10]: Registering mod namespace "showme"
+[00:00:10]: Registering mod namespace "foodvalues - itemtooltips"
+[00:00:10]: Registering mod namespace "workshop-378160973"
+[00:00:10]: Registering mod namespace "showmehint"
+[00:00:10]: PlayerDeaths could not load morgue	
+[00:00:10]: PlayerHistory could not load player_history	
+[00:00:10]: bloom_enabled	false	
+[00:00:10]: loaded saveindex	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Loading world: session/1BED3360E9320DC6/0000000090	
+[00:00:10]: Save file is at version 4.77	
+[00:00:10]: Klump load on boot started.	
+[00:00:10]: Klump files loaded: 	0	
+[00:00:10]: 	Unload FE	
+[00:00:10]: 	Unload FE done	
+[00:00:14]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Registering prefabs	
+[00:00:14]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:14]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-666155465 (Show Me)	Registering prefabs	
+[00:00:14]: Mod: workshop-666155465 (Show Me)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:14]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[00:00:14]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[00:00:14]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[00:00:14]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[00:00:14]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-458587300 (Fast Travel)	Registering prefabs	
+[00:00:14]: Mod: workshop-458587300 (Fast Travel)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:14]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:14]: 	LOAD BE	
+[00:00:17]: 	LOAD BE: done	
+[00:00:17]: Begin Session: 1BED3360E9320DC6
+[00:00:17]: saving to server_temp/server_save	
+[00:00:17]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:17]: Loading 12 new character(s)	
+[00:00:18]: Total 12 character(s) loaded	
+[00:00:18]: Loading Nav Grid	
+[00:00:18]: setting 	summerlength	15	
+[00:00:18]: setting 	isnightmaredawn	false	
+[00:00:18]: setting 	elapseddaysinseason	4	
+[00:00:18]: setting 	isfullmoon	false	
+[00:00:18]: setting 	moisture	3968.296875	
+[00:00:18]: setting 	springlength	20	
+[00:00:18]: setting 	isnightmarewild	false	
+[00:00:18]: setting 	moonphase	half	
+[00:00:18]: setting 	precipitationrate	0	
+[00:00:18]: setting 	iswet	false	
+[00:00:18]: setting 	isnewmoon	false	
+[00:00:18]: setting 	iswinter	false	
+[00:00:18]: setting 	israining	false	
+[00:00:19]: setting 	isnightmarewarn	false	
+[00:00:19]: setting 	precipitation	none	
+[00:00:19]: setting 	cavephase	day	
+[00:00:19]: setting 	moistureceil	7742.5361328125	
+[00:00:19]: setting 	isday	true	
+[00:00:19]: setting 	iscaveday	true	
+[00:00:19]: setting 	season	autumn	
+[00:00:19]: setting 	timeinphase	0.91513239542643	
+[00:00:19]: setting 	temperature	44.177965534774	
+[00:00:19]: setting 	isnightmarecalm	false	
+[00:00:19]: setting 	isnight	false	
+[00:00:19]: setting 	isdusk	false	
+[00:00:19]: setting 	iscavedusk	false	
+[00:00:19]: setting 	isautumn	true	
+[00:00:19]: setting 	issnowing	false	
+[00:00:19]: setting 	iswaxingmoon	false	
+[00:00:19]: setting 	pop	0.47944961470248	
+[00:00:19]: setting 	snowlevel	0	
+[00:00:19]: setting 	issnowcovered	false	
+[00:00:19]: setting 	autumnlength	20	
+[00:00:19]: setting 	phase	day	
+[00:00:19]: setting 	nightmaretime	0	
+[00:00:19]: setting 	winterlength	15	
+[00:00:19]: setting 	isspring	false	
+[00:00:19]: setting 	nightmarephase	none	
+[00:00:19]: setting 	remainingdaysinseason	16	
+[00:00:19]: setting 	cycles	74	
+[00:00:19]: setting 	iscavenight	false	
+[00:00:19]: setting 	nightmaretimeinphase	0	
+[00:00:19]: setting 	wetness	0	
+[00:00:19]: setting 	time	0.51476197242737	
+[00:00:19]: setting 	issummer	false	
+[00:00:19]: OVERRIDE: setting	deciduousmonster	to	never	
+[00:00:19]: OVERRIDE: setting	disease_delay	to	none	
+[00:00:24]: Reconstructing topology	
+[00:00:24]: 	...Sorting points	
+[00:00:24]: 	...Sorting edges	
+[00:00:24]: 	...Connecting nodes	
+[00:00:24]: 	...Validating connections	
+[00:00:24]: 	...Housekeeping	
+[00:00:24]: 	...Done!	
+[00:00:24]: 1 uploads added to server. From server_temp
+[00:00:24]: About to start a shard with these settings:
+[00:00:24]:   ShardName: [SHDMASTER]
+[00:00:24]:   ShardID: 1
+[00:00:24]:   ShardRole: MASTER
+[00:00:24]:   MasterHost: (null)
+[00:00:24]:   MasterBind: 127.0.0.1
+[00:00:24]:   MasterPort: 10888
+[00:00:24]: [Shard] Starting master server
+[00:00:24]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:25]: [Shard] Shard server started on port: 10888
+[00:00:25]: Telling Client our new session identifier: 1BED3360E9320DC6
+[00:00:25]: ModIndex: Load sequence finished successfully.	
+[00:00:25]: Reset() returning
+[00:00:25]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:26]: [Steam] SteamGameServer_Init success
+[00:00:26]: Validating portal[4] <-> 2908208416[4] (inactive)	
+[00:00:26]: Validating portal[5] <-> 2908208416[5] (inactive)	
+[00:00:26]: Validating portal[9] <-> 2908208416[9] (inactive)	
+[00:00:26]: Validating portal[6] <-> 2908208416[6] (inactive)	
+[00:00:26]: Validating portal[1] <-> 2908208416[1] (inactive)	
+[00:00:26]: Validating portal[3] <-> 2908208416[3] (inactive)	
+[00:00:26]: Validating portal[10] <-> 2908208416[10] (inactive)	
+[00:00:26]: Validating portal[2] <-> 2908208416[2] (inactive)	
+[00:00:26]: Validating portal[8] <-> 2908208416[8] (inactive)	
+[00:00:26]: Validating portal[7] <-> 2908208416[7] (inactive)	
+[00:00:26]: Sim paused
+[00:00:27]: Gameserver logged on to Steam, assigned SteamID [A:1:2863850502:10871]
+[00:00:54]: [Shard] Slave Caves(2908208416) connected: [LAN] 127.0.0.1
+[00:00:56]: [Shard] Slave Caves(2908208416) ready!
+[00:00:56]: World 2908208416 is now connected	
+[00:00:56]: Validating portal[4] <-> 2908208416[4] (active)	
+[00:00:56]: Validating portal[5] <-> 2908208416[5] (active)	
+[00:00:56]: Validating portal[9] <-> 2908208416[9] (disabled)	
+[00:00:56]: Validating portal[6] <-> 2908208416[6] (active)	
+[00:00:56]: Validating portal[1] <-> 2908208416[1] (active)	
+[00:00:56]: Validating portal[3] <-> 2908208416[3] (disabled)	
+[00:00:56]: Validating portal[10] <-> 2908208416[10] (disabled)	
+[00:00:56]: Validating portal[2] <-> 2908208416[2] (active)	
+[00:00:56]: Validating portal[8] <-> 2908208416[8] (disabled)	
+[00:00:56]: Validating portal[7] <-> 2908208416[7] (active)	
+[00:01:51]: New incoming connection 192.168.21.100|55777 <2784991054878097353>
+[00:01:51]: Client connected from [LAN] 192.168.21.100|55777 <2784991054878097353>
+[00:01:51]: ValidateGameSessionToken pgs-sing^KU_cg2vTil5^DontStarveTogether^inuDDu1fQlxNtm9FxT3djv2uZlwBmT22cvL3eEHjdpI= for <2784991054878097353>
+[00:01:52]: Client authenticated: (KU_cg2vTil5) 我叫李铁柱
+[00:01:52]: [Steam] SendUserConnectAndAuthenticate for '76561198284427187'
+[00:01:52]: [Steam] Authenticated client '76561198284427187'
+[00:01:54]: There is no active event to validate against.
+[00:01:54]: [Shard] Read save location file for (KU_cg2vTil5)
+[00:01:57]: New incoming connection 192.168.21.101|57688 <8017312739860565024>
+[00:01:57]: Client connected from [LAN] 192.168.21.101|57688 <8017312739860565024>
+[00:01:57]: ValidateGameSessionToken pgs-sing^KU_0Siu9lrl^DontStarveTogether^55YhNqTS5R+LCxx/Xwa+IsXLOzzRisDxGDYygAmYlzA= for <8017312739860565024>
+[00:01:58]: Client authenticated: (KU_0Siu9lrl) 519969864
+[00:01:58]: [Steam] Authenticated host '76561198336306657'
+[00:01:59]: There is no active event to validate against.
+[00:01:59]: [Shard] Read save location file for (KU_0Siu9lrl)
+[00:02:07]: Resuming user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000029
+[00:02:07]: Spawning player at: [Load] (-80.87, 0.00, 520.65)	
+[00:02:07]: Sim unpaused
+[00:02:17]: Resuming user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000090
+[00:02:17]: Spawning player at: [Load] (-79.28, 0.00, 524.57)	
+[00:06:01]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000091
+[00:06:01]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000091
+[00:06:02]: Serializing world: session/1BED3360E9320DC6/0000000091
+[00:08:48]: Activating portal[2] to 2908208416	
+[00:08:49]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:08:49]: [Shard] Migration request: (KU_0Siu9lrl) to Caves(2908208416)
+[00:08:49]: [Shard] Begin migration #1 for (KU_0Siu9lrl)
+[00:08:49]: [Shard] #1 [SHDMASTER](1) -> Caves(2908208416)
+[00:08:49]: [Shard] #1 <- session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:08:49]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:08:49]: [Steam] SendUserDisconnect for '76561198336306657'
+[00:08:49]: [Shard] (KU_0Siu9lrl) disconnected from [SHDMASTER](1)
+[00:08:55]: [Shard] Completed migration #1 for player (KU_0Siu9lrl)
+[00:08:55]: [Shard] Writing save location file for (KU_0Siu9lrl)
+[00:09:17]: [Shard] Begin migration #2 for (KU_0Siu9lrl)
+[00:09:17]: [Shard] #2 Caves(2908208416) -> [SHDMASTER](1)
+[00:09:17]: [Shard] #2 -> session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:09:17]: [Shard] Received migration #2 data for (KU_0Siu9lrl)
+[00:09:17]: [Shard] (KU_0Siu9lrl) disconnected from Caves(2908208416)
+[00:09:22]: New incoming connection 192.168.21.101|57146 <498033117318988289>
+[00:09:22]: Client connected from [LAN] 192.168.21.101|57146 <498033117318988289>
+[00:09:22]: ValidateGameSessionToken pgs-sing^KU_0Siu9lrl^DontStarveTogether^Hr7645xqlafX6l9BRw/Q0FANRVmYE1ShICBJpRr2nkM= for <498033117318988289>
+[00:09:22]: Client authenticated: (KU_0Siu9lrl) 519969864
+[00:09:22]: [Steam] Authenticated host '76561198336306657'
+[00:09:22]: [Shard] Completed incoming migration #2 for (KU_0Siu9lrl)
+[00:09:22]: [Shard] Completed migration #2 for player (KU_0Siu9lrl)
+[00:09:22]: [Shard] Writing save location file for (KU_0Siu9lrl)
+[00:09:40]: Resuming user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:09:40]: Player will spawn close to portal #2	
+[00:09:40]: Spawning player at: [Load] (-185.14, 0.00, 108.13)	
+[00:09:48]: Activating portal[2] to 2908208416	
+[00:09:48]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:09:48]: [Shard] Migration request: (KU_0Siu9lrl) to Caves(2908208416)
+[00:09:48]: [Shard] Begin migration #3 for (KU_0Siu9lrl)
+[00:09:48]: [Shard] #3 [SHDMASTER](1) -> Caves(2908208416)
+[00:09:48]: [Shard] #3 <- session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:09:48]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:09:48]: [Steam] SendUserDisconnect for '76561198336306657'
+[00:09:48]: [Shard] (KU_0Siu9lrl) disconnected from [SHDMASTER](1)
+[00:09:54]: [Shard] Completed migration #3 for player (KU_0Siu9lrl)
+[00:09:54]: [Shard] Writing save location file for (KU_0Siu9lrl)
+[00:10:44]: [Shard] Begin migration #4 for (KU_0Siu9lrl)
+[00:10:44]: [Shard] #4 Caves(2908208416) -> [SHDMASTER](1)
+[00:10:44]: [Shard] #4 -> session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:10:44]: [Shard] Received migration #4 data for (KU_0Siu9lrl)
+[00:10:44]: [Shard] (KU_0Siu9lrl) disconnected from Caves(2908208416)
+[00:10:49]: New incoming connection 192.168.21.101|57148 <2919569721173581362>
+[00:10:49]: Client connected from [LAN] 192.168.21.101|57148 <2919569721173581362>
+[00:10:49]: ValidateGameSessionToken pgs-sing^KU_0Siu9lrl^DontStarveTogether^s4NSXINuuMyrCJgI3Rr1zlYCUP0MomSKLw6JfXOzkZg= for <2919569721173581362>
+[00:10:49]: Client authenticated: (KU_0Siu9lrl) 519969864
+[00:10:49]: [Steam] Authenticated host '76561198336306657'
+[00:10:49]: [Shard] Completed incoming migration #4 for (KU_0Siu9lrl)
+[00:10:49]: [Shard] Completed migration #4 for player (KU_0Siu9lrl)
+[00:10:49]: [Shard] Writing save location file for (KU_0Siu9lrl)
+[00:11:07]: Resuming user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:11:07]: Player will spawn close to portal #2	
+[00:11:07]: Spawning player at: [Load] (-184.50, 0.00, 107.24)	
+[00:14:02]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000092
+[00:14:02]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[00:14:02]: Serializing world: session/1BED3360E9320DC6/0000000092
+[00:17:10]: Error parsing JSON
+[00:17:11]: Error parsing JSON
+[00:22:02]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000093
+[00:22:03]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000093
+[00:22:03]: Serializing world: session/1BED3360E9320DC6/0000000093
+[00:23:39]: Activating portal[2] to 2908208416	
+[00:23:39]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000094
+[00:23:39]: [Shard] Migration request: (KU_0Siu9lrl) to Caves(2908208416)
+[00:23:39]: [Shard] Begin migration #5 for (KU_0Siu9lrl)
+[00:23:39]: [Shard] #5 [SHDMASTER](1) -> Caves(2908208416)
+[00:23:39]: [Shard] #5 <- session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000094
+[00:23:39]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:23:39]: [Steam] SendUserDisconnect for '76561198336306657'
+[00:23:39]: [Shard] (KU_0Siu9lrl) disconnected from [SHDMASTER](1)
+[00:23:45]: [Shard] Completed migration #5 for player (KU_0Siu9lrl)
+[00:23:45]: [Shard] Writing save location file for (KU_0Siu9lrl)
+[00:25:29]: [Shard] Begin migration #6 for (KU_0Siu9lrl)
+[00:25:29]: [Shard] #6 Caves(2908208416) -> [SHDMASTER](1)
+[00:25:29]: [Shard] #6 -> session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000094
+[00:25:29]: [Shard] Received migration #6 data for (KU_0Siu9lrl)
+[00:25:29]: [Shard] (KU_0Siu9lrl) disconnected from Caves(2908208416)
+[00:25:34]: New incoming connection 192.168.21.101|51599 <4260456981357116569>
+[00:25:34]: Client connected from [LAN] 192.168.21.101|51599 <4260456981357116569>
+[00:25:34]: ValidateGameSessionToken pgs-sing^KU_0Siu9lrl^DontStarveTogether^sCMslhddObjzQTY4rVGr5fdOpwai0N/Q4pM+JGhiC/g= for <4260456981357116569>
+[00:25:35]: Client authenticated: (KU_0Siu9lrl) 519969864
+[00:25:35]: [Steam] Authenticated host '76561198336306657'
+[00:25:35]: [Shard] Completed incoming migration #6 for (KU_0Siu9lrl)
+[00:25:35]: [Shard] Completed migration #6 for player (KU_0Siu9lrl)
+[00:25:35]: [Shard] Writing save location file for (KU_0Siu9lrl)
+[00:25:52]: Resuming user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000094
+[00:25:52]: Player will spawn close to portal #2	
+[00:25:52]: Spawning player at: [Load] (-182.85, 0.00, 107.26)	
+[00:30:03]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000094
+[00:30:03]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000094
+[00:30:04]: Serializing world: session/1BED3360E9320DC6/0000000094
+[00:30:07]: [200] Account Communication Success (6)
+[00:30:07]: Received (KU_0Siu9lrl) from TokenPurpose
+[00:38:04]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000095
+[00:38:04]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000095
+[00:38:04]: Serializing world: session/1BED3360E9320DC6/0000000095
+[00:40:36]: Gameserver logged on to Steam, assigned SteamID [A:1:2863850502:10871]
+[00:40:37]: [Steam] Authenticated client '76561198284427187'
+[00:40:37]: [Warning] cSteamPunchthrough::onAuthenticationApproved - Client already authenticated
+[00:46:04]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000096
+[00:46:04]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000096
+[00:46:05]: Serializing world: session/1BED3360E9320DC6/0000000096
+[00:54:05]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000097
+[00:54:05]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000097
+[00:54:06]: Serializing world: session/1BED3360E9320DC6/0000000097
+[00:57:25]: Gameserver logged on to Steam, assigned SteamID [A:1:2863850502:10871]
+[00:57:26]: [Steam] Authenticated client '76561198284427187'
+[00:57:26]: [Warning] cSteamPunchthrough::onAuthenticationApproved - Client already authenticated
+[01:00:07]: [200] Account Communication Success (6)
+[01:00:07]: Received (KU_0Siu9lrl) from TokenPurpose
+[01:02:06]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000098
+[01:02:06]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000098
+[01:02:06]: Serializing world: session/1BED3360E9320DC6/0000000098
+[01:10:07]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000099
+[01:10:07]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000099
+[01:10:07]: Serializing world: session/1BED3360E9320DC6/0000000099
+[01:18:07]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000100
+[01:18:07]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000100
+[01:18:08]: Serializing world: session/1BED3360E9320DC6/0000000100
+[01:18:12]: [Steam] SendUserDisconnect for '76561198284427187'
+[01:18:12]: [Shard] (KU_cg2vTil5) disconnected from [SHDMASTER](1)
+[01:18:13]: Serializing user: session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000101
+[01:18:17]: [Steam] SendUserDisconnect for '76561198336306657'
+[01:18:17]: [Shard] (KU_0Siu9lrl) disconnected from [SHDMASTER](1)
+[01:18:17]: Serializing user: session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000101
+[01:18:17]: Sim paused
+[01:18:39]: World 2908208416 is now disconnected	
+[01:18:39]: Validating portal[4] <-> 2908208416[4] (inactive)	
+[01:18:39]: Validating portal[5] <-> 2908208416[5] (inactive)	
+[01:18:39]: Validating portal[9] <-> 2908208416[9] (inactive)	
+[01:18:39]: Validating portal[6] <-> 2908208416[6] (inactive)	
+[01:18:39]: Validating portal[1] <-> 2908208416[1] (inactive)	
+[01:18:39]: Validating portal[3] <-> 2908208416[3] (inactive)	
+[01:18:39]: Validating portal[10] <-> 2908208416[10] (inactive)	
+[01:18:39]: Validating portal[2] <-> 2908208416[2] (inactive)	
+[01:18:39]: Validating portal[8] <-> 2908208416[8] (inactive)	
+[01:18:39]: Validating portal[7] <-> 2908208416[7] (inactive)	
+[01:18:39]: [Shard] A slave has disconnected: 'Caves(2908208416)'
+[01:18:43]: Serializing world: session/1BED3360E9320DC6/0000000101
+[01:18:43]: Truncating to snapshot #101...
+[01:18:43]:  - session/1BED3360E9320DC6/0000000085
+[01:18:43]:  - session/1BED3360E9320DC6/0000000086
+[01:18:43]:  - session/1BED3360E9320DC6/0000000087
+[01:18:43]:  - session/1BED3360E9320DC6/0000000088
+[01:18:43]:  - session/1BED3360E9320DC6/0000000089
+[01:18:43]:  - session/1BED3360E9320DC6/0000000090
+[01:18:43]:  - session/1BED3360E9320DC6/0000000091
+[01:18:43]:  - session/1BED3360E9320DC6/0000000092
+[01:18:43]:  - session/1BED3360E9320DC6/0000000093
+[01:18:43]:  - session/1BED3360E9320DC6/0000000094
+[01:18:43]:  - session/1BED3360E9320DC6/0000000095
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000095
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000094
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000093
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000092
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000091
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000090
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000089
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000088
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000087
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000086
+[01:18:43]:  - session/1BED3360E9320DC6/A7G1PCS2DVBF/0000000085
+[01:18:43]:  - session/1BED3360E9320DC6/A7HMIIGHGSP7/0000000089
+[01:18:43]:  - session/1BED3360E9320DC6/A7HMIIGHGSP7/0000000088
+[01:18:43]:  - session/1BED3360E9320DC6/A7HMIIGHGSP7/0000000087
+[01:18:43]:  - session/1BED3360E9320DC6/A7HMIIGHGSP7/0000000086
+[01:18:43]:  - session/1BED3360E9320DC6/A7HMIIGHGSP7/0000000085
+[01:18:43]:  - session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000095
+[01:18:43]:  - session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000094
+[01:18:43]:  - session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000093
+[01:18:43]:  - session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000092
+[01:18:43]:  - session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000091
+[01:18:43]:  - session/1BED3360E9320DC6/A7KQK2SNDIU5/0000000029
+[01:18:43]:    33 file(s) removed
+[01:18:43]: [Shard] Stopping shard mode
+[01:18:43]: Collecting garbage...
+[01:18:43]: lua_gc took 0.18 seconds
+[01:18:44]: ~ShardLuaProxy()
+[01:18:44]: ~cEventLeaderboardProxy()
+[01:18:44]: ~ItemServerLuaProxy()
+[01:18:44]: ~InventoryLuaProxy()
+[01:18:44]: ~NetworkLuaProxy()
+[01:18:44]: ~SimLuaProxy()
+[01:18:44]: lua_close took 0.49 seconds
+[01:18:44]: CurlRequestManager::ClientThread::Main() complete
+[01:18:44]: HttpClient2 discarded 0 callbacks.
+[01:18:44]: Shutting down
